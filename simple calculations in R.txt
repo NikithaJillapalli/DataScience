@@ -13,3 +13,7 @@ square=function(x){
 }
 square(a)
 
+> getwd()
+[1] "C:/Users/Student/Documents"
+> write.csv(a,'a.csv')
+> write.csv(a,"C:/Users/Student/Documents")
